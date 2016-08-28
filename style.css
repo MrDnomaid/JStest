@@ -37,6 +37,7 @@ a:hover {
 }
 #dnomaid a {
   color: #2baff7;
+  text-decoration: none;
 }
 #dnomaid a:hover {
   color: #eee;
